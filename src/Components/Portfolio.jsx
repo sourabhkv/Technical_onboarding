@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "YTDL",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A GUI web media downloader program that runs on top of youtube-dl/yt-dlp and ffmpeg to download videos and audio",
+    url: "https://sourabhkv.github.io/2021-11-21-ytdl-journey/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "teX",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "text editor X - code redefined",
+    url: "https://github.com/sourabhkv/teX",
   },
   {
-    title: "My Resume Site",
+    title: "degoogled-forms",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Start a server from scratch ,handle everything ; URL request ,GET request, POST request, manage data , clean , analyse it without google forms. #degoogled",
+    url: "https://github.com/sourabhkv/degoogled-forms",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Car-price-predictor",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Analyzed , cleaned , modelled , deployed car data for various models and predicting prize",
+    url: "https://github.com/sourabhkv/Car-Price-predictor",
   },
 ];
 
