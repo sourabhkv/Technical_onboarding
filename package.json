@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://sourabhkv.github.io/Technical_onboarding",
+  "homepage": "https://sourabhkv.github.io/Technical_onboarding",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://sourabhkv.github.io/Technical_onboarding'",
+    "build-gh": "parcel build --public-url 'https://sourabhkv.github.io/Technical_onboarding'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -18,7 +18,7 @@
   "author": "sourabh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sourabhkv"
+    "url": "https://github.com/sourabhkv/Technical_onboarding/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
