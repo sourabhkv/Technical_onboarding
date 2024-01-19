@@ -15,10 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
-  "author": "Microsoft",
+  "author": "sourabh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/sourabhkv"
   },
   "dependencies": {
     "react": "^18.2.0",
